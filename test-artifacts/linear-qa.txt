@@ -1,0 +1,3 @@
+Linear QA fixture
+Date: 2026-08-31
+Purpose: thread fixture for Linear diff QA.
