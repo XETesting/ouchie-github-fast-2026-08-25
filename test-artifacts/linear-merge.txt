@@ -1,0 +1,3 @@
+Linear disposable merge fixture
+Date: 2026-08-31
+Purpose: QA mergeability check.
